@@ -32,7 +32,7 @@ really want to clone it someplace else, just edit the
 Clone this project someplace and change into that directory:
 
 ```
-git clone https://github.com/EnigmaCurry/spring-example \
+git clone https://github.com/EnigmaCurry/spring_example \
   ${HOME}/git/spring-example
 cd ${HOME}/git/spring-example
 ```
